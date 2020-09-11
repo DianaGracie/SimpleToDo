@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](ezgif.com-video-to-gif)
+[](ezgif.com-video-to-gif)
 
 GIF created with [ezgif](http://www.ezgif.com).
 
