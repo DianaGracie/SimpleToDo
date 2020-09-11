@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](ezgif.com-resize (1).gif)
-
+<img src='ezgif.com-resize (1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [ezgif](http://www.ezgif.com).
 
 ## Notes
