@@ -32,7 +32,7 @@ GIF created with [ezgif](https://www.ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have not worked with Java extensively in the past, so assuring that the syntax was correct was my biggest challenge for this project.
 
 ## License
 
